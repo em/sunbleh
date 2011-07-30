@@ -1,4 +1,4 @@
-=Sunbleh
+# Sunbleh
 
 A lot of vim users are drawn down the path of using 256 color mode to get more colors.
 The problem is that the ANSI 256 sacrifice mostly lightness and have oversaturated or undersaturated colors as a result.
