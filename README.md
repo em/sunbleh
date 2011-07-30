@@ -11,3 +11,4 @@ I use item2 so what's packaged here is both the vim colorscheme, and the associa
 
 I also tweaked the color over time to my liking, so it is not actually Sunburst anymore.
 
+![Sunbleh Screenshot](/https://raw.github.com/em/sunbleh/master/screenshot.png "Screenshot")
