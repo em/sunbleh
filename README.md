@@ -10,5 +10,6 @@ With 16 ansi colors, and 2 more (foreground/background) you have 18 colors. Whic
 I use item2 so what's packaged here is both the vim colorscheme, and the associated item2 colorscheme.
 
 I also tweaked the color over time to my liking, so it is not actually Sunburst anymore.
-/
-![Sunbleh Screenshot](/em/sunbleh/raw/master/screenshot.png "Screenshot")
+
+[![Sunbleh Screenshot][1]][1]
+  [1]: /em/sunbleh/raw/master/screenshot.png
